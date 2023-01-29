@@ -2,7 +2,7 @@
 
 This is a tool for converting between Minecraft alpha worlds and the Minecraft region format.
 
-It is derived from this [post by Scaevolus](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/mods-discussion/1346703-mod-mcregion-v5-optimized-saves-1-2_02), with a minor modification to work with the official Minecraft region format.
+It is derived from this [post by Scaevolus](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/mods-discussion/1346703-mod-mcregion-v5-optimized-saves-1-2_02), with a minor modification to work with the official Minecraft region format. Specifically, it uses files with the `.mcr` extension, rather than `.data` from the original tool.
 
 ## Formats
 
