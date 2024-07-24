@@ -8,11 +8,11 @@ It is derived from this [post by Scaevolus](https://www.minecraftforum.net/forum
 
 ### Alpha Level Format
 
-The [alpha level format](https://minecraft.fandom.com/wiki/Java_Edition_Alpha_level_format) was introduced in Infdev 20100327, through Beta 1.2_02. Your world is in this format if it has a `level.dat` file in the root directory, along side a bunch of directories labeled with a few letters and numbers (ex: `1h`).
+The [alpha level format](https://minecraft.wiki/w/Java_Edition_Alpha_level_format) was introduced in Infdev 20100327, through Beta 1.2_02. Your world is in this format if it has a `level.dat` file in the root directory, along side a bunch of directories labeled with a few letters and numbers (ex: `1h`).
 
 ### Region Format
 
-The [region format](https://minecraft.fandom.com/wiki/Region_file_format) was introduced in Beta 1.3, and is used until 12w07a (a snapshot for 1.2.1). Your world is in this format if it has a `region` folder, with a bunch of files named `r.x.z.mcr` (ex: `r.0.0.mcr`).
+The [region format](https://minecraft.wiki/w/Region_file_format) was introduced in Beta 1.3, and is used until 12w07a (a snapshot for 1.2.1). Your world is in this format if it has a `region` folder, with a bunch of files named `r.x.z.mcr` (ex: `r.0.0.mcr`).
 
 ## Building
 
